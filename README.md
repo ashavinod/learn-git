@@ -2,9 +2,12 @@
 Hello Class!
 
 #### Adding new features
+<details>
 <summary>
-Test
+click this to open
 </summary>
+  Great learning git
+</details>
 <code>
 Code here
 </code>
